@@ -22,7 +22,7 @@ If you use the 'ICNALE-AS2R' corpus, also cite the following paper.
 
 - Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. Parsing Argumentative Structure in English-as-foreign-language Essays. In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, pp. XX-YY. 
 
-## Download Link
+## Corpus Distribution
 The corpus will be distributed through Gengo-Shigen-Kyokai ("Language Resources Association" in Japan, [https://www.gsk.or.jp/en/](https://www.gsk.or.jp/en/)). We are currently working to process the distribution **[link to be provided]**. 
 
 ## Folder Structure
