@@ -2,7 +2,8 @@
 **I**nternational **C**orpus **N**etwork of **A**sian **L**earners of **E**nglish (ICNALE) annotated with **A**rgumentative **S**tructure and **S**entence **R**eordering (AS2R)
 
 ## Description
-The ICNALE-AS2R corpus consists of 434 argumentative essays written by college students from various Asian countries (sampled from the [ICNALE](http://language.sakura.ne.jp/icnale/) corpus). The corpus includes two layers of annotation. 
+
+This language resource is a collection of English learner essays which are excepted from [ICNALE](http://language.sakura.ne.jp/icnale/), based on two criteria: grammatical error free and moderately scored. The corpus consists of 434 essays. The corpus includes two layers of annotation. 
 
 - The first layer is an **argumentative structure annotation**. In the argumentative structure annotation, sentences are first differentiated into argumentative and non-argumentative components; then, relations are established between argumentative components to form a hierarchical structure of the text. We refer the corpus with the first annotation layer as `ICNALE-AS'.
 
@@ -23,7 +24,7 @@ If you use the 'ICNALE-AS2R' corpus, also cite the following paper.
 - Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Parsing Argumentative Structure in English-as-foreign-language Essays](https://www.aclweb.org/anthology/2021.bea-1.10/). In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, Association for Computational Linguistics, pp. 97-109, April 2021. 
 
 ## Corpus Distribution
-The corpus will be distributed through Gengo-Shigen-Kyokai ("Language Resources Association" in Japan, [https://www.gsk.or.jp/en/](https://www.gsk.or.jp/en/)). We are currently working to process the distribution **[link to be provided]**. 
+The corpus is be distributed through Gengo-Shigen-Kyokai ("Language Resources Association" in Japan). Please visit [https://www.gsk.or.jp/en/catalog/gsk2021-a](https://www.gsk.or.jp/en/catalog/gsk2021-a).
 
 ## Folder Structure
 - ```html``` contains the annotated essay in TIARA internal format
