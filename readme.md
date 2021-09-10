@@ -17,11 +17,11 @@ Please cite all of the following papers when using the "ICNALE-AS" corpus in you
 
 - Shinichiro Ishikawa. 2013. [The ICNALE and Sophisticated Contrastive Interlanguage Analysis of Asian Learners of English](http://www.lib.kobe-u.ac.jp/infolib/meta_pub/G0000003kernel_81006678). In Learner Corpus Studies in Asia and the World, vol 1, pp. 91–118.
 - Shinichiro Ishikawa. 2018. [The ICNALE Edited Essays: A Dataset for Analysis of L2 English Learner Essays Based on A New Integrative Viewpoint](http://jaecs.com/jnl/ECS25/ECS25_117-130.pdf). In English Corpus Linguistics, vol 25, pp. 1–14.
-- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Annotating Argumentative Structure in English-as-foreign-language Learner Essays](https://www.doi.org/10.1017/S1351324921000218). In Natural Language Engineering, pp. 1-27.
+- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Annotating Argumentative Structure in English-as-foreign-language Learner Essays](https://www.doi.org/10.1017/S1351324921000218). In Natural Language Engineering, pp. 1-27. DOI 10.1017/S1351324921000218.
 
 If you use the "ICNALE-AS2R" corpus, also cite the following paper on top of those three above.
 
-- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Parsing Argumentative Structure in English-as-foreign-language Essays](https://www.aclweb.org/anthology/2021.bea-1.10/). In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, Association for Computational Linguistics, pp. 97-109, April 2021. 
+- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Parsing Argumentative Structure in English-as-foreign-language Essays](https://www.aclweb.org/anthology/2021.bea-1.10/). In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, Association for Computational Linguistics, pp. 97-109. 
 
 ## Corpus Distribution
 The corpus is distributed through Gengo-Shigen-Kyokai ("Language Resources Association" in Japan). Please visit [https://www.gsk.or.jp/en/catalog/gsk2021-a](https://www.gsk.or.jp/en/catalog/gsk2021-a).
@@ -31,5 +31,5 @@ The corpus is distributed through Gengo-Shigen-Kyokai ("Language Resources Assoc
 - ```tsv (ICNALE-AS)``` contains the essays annotated only with argumentative structure, in ```.tsv``` format
 - ```tsv (ICNALE-AS2R)``` contains the essays annotated with two layers of annotation: (1) argumentative structure and (2) sentence reordering followed by text repair. 
 - ```essay_list.csv``` contains the list of annotated essays. This is useful for cross-checking
-- ```ICNALE-AS2R readme.md``` is this file
+- ```ICNALE-AS2R readme v2.pdf``` is this file
 - ```annotation_guideline.pdf``` is our annotation guideline
