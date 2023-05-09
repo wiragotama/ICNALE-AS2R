@@ -21,7 +21,7 @@ Please cite all of the following papers when using the "ICNALE-AS" corpus in you
 
 If you use the "ICNALE-AS2R" corpus, also cite the following paper on top of those three above.
 
-- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. [Parsing Argumentative Structure in English-as-foreign-language Essays](https://www.aclweb.org/anthology/2021.bea-1.10/). In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, Association for Computational Linguistics, pp. 97-109. 
+- Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2023. [Improving logical flow in English-as-a-foreign-language learner essays by reordering sentences](https://doi.org/10.1016/j.artint.2023.103935). In Artificial Intelligence Journal, Vol 320.
 
 ## Corpus Distribution
 The corpus is distributed through Gengo-Shigen-Kyokai ("Language Resources Association" in Japan). Please visit [https://www.gsk.or.jp/en/catalog/gsk2021-a](https://www.gsk.or.jp/en/catalog/gsk2021-a).
